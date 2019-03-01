@@ -1,0 +1,10 @@
+
+bin/
+
+obj/
+
+packages/
+
+\.vs/
+
+EliteDangerousLCD\.csproj\.user
