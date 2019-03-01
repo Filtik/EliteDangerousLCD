@@ -5,7 +5,7 @@ This is a plugin for Logitech G13/G15/G510 devices.
 It displays your commander-, rank-, ship- and docking-information in `EliteDangerous`.
 
 ## Download
-The latest version can be downloaded here: [](https://github.com/Filtik/EliteDangerousLCD/releases/tag/V1.0)
+The latest version can be downloaded here: [Release Page](https://github.com/Filtik/EliteDangerousLCD/releases)
 
 Otherwise you can build the project yourself.
 
